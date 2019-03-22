@@ -1,0 +1,75 @@
+.Blog_musica{background-color: #FFC0CB;}
+.superior{
+  background-color: #D8BFD8;
+  height: 200px;
+  padding: 2px;
+
+
+}
+.logo{
+    height: 190px;
+}
+.social{
+  background-color: red;
+}
+.img_logo{
+  min-width: 200px;
+  max-height: 180px;
+}
+.Red_social{
+  height: 190px;
+  padding-top: 130px;
+}
+.nav1{
+  min-height: 80px;
+  text-align: center;
+  background-color: #E6E6FA
+}
+.nav1>ul>li>a{
+  color: #663399;
+  font-size: 30px;
+}
+.contenido_prin{
+  min-height: 850px;
+}
+.contenido1{
+    min-height: 400px;
+}
+.articulos {
+  margin:  12px;
+}
+.img_Ar{
+  margin:  12px;
+}
+.Textar_com1{
+  margin: 12px;
+}
+.user1{
+}
+.textarea1{
+}
+.busqueda{
+  height: 850px;
+  background-color: #D8BFD8;
+}
+.buscador{
+  height: 100px;
+}
+.Opc_busqueda{
+  height: 600px;
+}
+@media (max-width:600px) {
+  .Red_social{
+    max-height: 40px;
+    padding-top: 0px !important;
+  }
+  .img-responsive1{
+    height: 35px !important;
+  }
+  img{
+ max-width: 250px;
+  }
+  .articulos>.titulo{
+    font-size: 2rem;
+  }
+}

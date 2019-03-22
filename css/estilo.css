@@ -1,0 +1,42 @@
+body
+{
+background-size: cover;
+background-attachment: fixed;
+background-repeat: no-repeat;
+background-image: url("../img/fondot.jpg")!important;
+}
+.navegacion
+{
+min-height: 150px !important;
+}
+.logo{
+  max-width: 120px;
+}
+.redes
+{
+  margin-bottom:15px;
+}
+.caballito{
+
+}
+.imgrosario{
+  width: 200px !important;
+  float: left;
+  padding: 5px;
+}
+.titulo{
+  color: black;
+}
+.formulario
+{
+background-color: #e3f2fd ;
+max-width: 890px;
+}
+.galeria{
+  padding: 8px;
+}
+.imgperfil{
+  max-width: 400px;
+  border-radius: 50% !important;
+
+}
